@@ -1,5 +1,3 @@
-#Thorium
-
 ## Project - Products Management
 
 ### Key points
